@@ -3,4 +3,4 @@ Student API developed using springboot
 
 Here is the layer-based diagram for above implemented REST based CRUD API
 
-<img src="./layer-diagram.PNG" height="600px" style="object-fit : cover" />
+<img src="./layer-diagram.PNG" height="300px" style="object-fit : cover" />
